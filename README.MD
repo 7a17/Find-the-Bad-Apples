@@ -1,4 +1,4 @@
-# Attachment for "Find the Bad Apples"
+# Codes for "Find the Bad Apples"
 
 ## Folder "Ciphertext Generation"
 
