@@ -6,9 +6,11 @@ It contains scripts to find ciphertexts for "Checking 4 coefficients by 2 querie
 
 ## Folder "Real-world Experiment"
 
+**"Experiment Result"**
+
 It contains the real-world device attacking log for our method as well as the classical majority vote for 10 randomly generated secret key.
 
-Folder "Real-world Experimental Implementation"
+**"Implementation"**
 
 It contains the experimental implementation of our real device experiments. It is an edited version from **pqm4** library for the STM32F407G board.
 
